@@ -2,7 +2,7 @@
 
 This repository contains the PDF of my master thesis and the code used in the numerical experiment.
 
-The notebook `master_thesis_code.ipynb` provides the numerical implementation for Subsection 3.1.1 (Numerical Justification) of my master thesis (`master_thesis.pdf`). The core algorithm implemented in the code is proposed in Chapter 3 of the thesis.
+The file `master_thesis_code.ipynb` provides the numerical implementation for Subsection 3.1.1 (Numerical Justification) of my master thesis (`master_thesis.pdf`). The core algorithm implemented in the code is proposed in Chapter 3 of the thesis.
 
 ## Contents
 
